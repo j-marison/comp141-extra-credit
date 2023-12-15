@@ -1,0 +1,5 @@
+copy.txt
+ls.txt
+pwd.txt
+read.txt
+text.txt
